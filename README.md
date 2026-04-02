@@ -95,9 +95,7 @@ https://alok-kumar365.github.io/healthcare_iitbhu/
 
 ---
 
-## 🛡️ Disclaimer
 
-This project is for educational purposes only and does not replace professional medical advice.
 
 ---
 
